@@ -193,9 +193,6 @@ export default {
       status: "",
       password: "",
       userEmail: "",
-      // sideImg: require("@/assets/images/pages/nft2.jpeg"),
-      // validation rulesimport store from '@/store/index'
-      //test
       required,
       email,
     };
